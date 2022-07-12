@@ -182,3 +182,7 @@ body,
   left: 40px;
   right: 20px;
 }
+
+.ui.segment > .ui.comments {
+  max-width: unset;
+}

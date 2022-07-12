@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "slack-react-78082"
+    "main": "slack-react-78082"
+  },
+  "targets": {
+    "slack-react-78082": {
+      "hosting": {
+        "dev": [
+          "tsu-groups"
+        ]
+      }
+    }
   }
 }
